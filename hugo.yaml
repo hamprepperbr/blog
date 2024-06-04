@@ -52,6 +52,7 @@ params:
 
   ShowReadingTime: false
   ShowShareButtons: true
+  ShareButtons: ["twitter", "whatsapp", "telegram", "facebook"]
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
