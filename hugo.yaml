@@ -81,7 +81,7 @@ params:
     iconHeight: 35
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/hamprepperbr/blog/blob/main/content"
     Text: "Sugerir mudanças" # edit text
     appendFilePath: true # to append file path to Edit link
 
