@@ -20,6 +20,27 @@ minify:
 
 defaultContentLanguage: pt-br
 languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+    menu:
+      main:
+        - name: Posts
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: Files
+          url: https://drive.google.com/drive/folders/1lllEd_-GUqZw9BThDg1z5NPEL4lXKGBF?usp=sharing
+          params:
+            external: true
   pt-br:
     languageName: "Português"
     weight: 1
@@ -28,7 +49,7 @@ languages:
       tag: tags
     menu:
       main:
-        - name: Arquivo
+        - name: Posts
           url: archives
           weight: 5
         - name: Pesquisar
@@ -37,6 +58,10 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
+        - name: Arquivos
+          url: https://drive.google.com/drive/folders/1lllEd_-GUqZw9BThDg1z5NPEL4lXKGBF?usp=sharing
+          params:
+            external: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -97,18 +122,3 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-
-menu:
-  main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
