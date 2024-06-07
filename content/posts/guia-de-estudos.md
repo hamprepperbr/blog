@@ -13,7 +13,7 @@ A prova da ANATEL para obtenção do COER é simples, não é um vestibular, as 
 
 Após lerem as [Apostila 1](https://drive.google.com/file/d/1ESaVqFyjtejyAzaFiOygZJtl06LKMJ_U/view?usp=sharing) e [Apostila 2](https://drive.google.com/file/d/1pCbw3YW6ApaV9WtjHhAi1ri600ieEQnb/view?usp=sharing), sugiro também assistir aos vídeos do link abaixo, criado pelo pessoal dos Escoteiros do Brasil e LABRE Nacional pelo Ronan Augusto Reginatto PY2RAR (Coordenador Nacional de Radioescotismo) feito para ajudar os escoteiros obter o COER.
 
-[![](https://img.youtube.com/vi/8Vc8bcHNWrE/0.jpg)](https://www.youtube.com/watch?v=8Vc8bcHNWrE)
+{{< youtube 8Vc8bcHNWrE >}} <br>
 
 Por fim o [item 4](https://drive.google.com/file/d/1HjeRgNvCFYXEGXgED1jmndcidJLpbUyV/view?usp=sharing) é uma errata, que no nosso caso é apenas da questão de Legislação, desconsiderem as demais para a prova de classe C.
 
