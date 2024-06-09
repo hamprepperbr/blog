@@ -20,3 +20,5 @@ Por fim o [item 4](https://drive.google.com/file/d/1HjeRgNvCFYXEGXgED1jmndcidJLp
 Então com esses três itens vocês estão munidos para fazer as provas, contem conosco para tirar qualquer dúvidas daqui para a frente que forem surgindo.
 
 Bons estudos de toda a turma da Ham Prepper C.A.
+
+{{<cusdis>}}
