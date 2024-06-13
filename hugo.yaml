@@ -1,6 +1,6 @@
 baseURL: https://hamprepperbr.github.io/blog/
 languageCode: pt-br
-title: HamPrepper BR
+title: Ham Prepper C.A.
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -46,10 +46,10 @@ languages:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: HamPepperBR
+  title: Ham Prepper C.A.
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: HamPrepper
+  author: Ham Prepper C.A.
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2 Jan 2006"
   defaultTheme: light # dark, auto
@@ -83,7 +83,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "HamPrepper BR"
+    text: "Ham Prepper C.A."
     icon: /apple-touch-icon.png
     iconHeight: 35
 
