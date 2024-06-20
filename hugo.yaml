@@ -50,10 +50,10 @@ languages:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Ham Prepper C.A.
-  description: "ExampleSite description"
+  description: "Aqui falamos sobre rádio, comunicação e preparação"
   keywords: [Blog, Portfolio, PaperMod]
   author: Ham Prepper C.A.
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/International_amateur_radio_symbol.svg"]
   DateFormat: "2 Jan 2006"
   defaultTheme: light # dark, auto
   disableThemeToggle: true
