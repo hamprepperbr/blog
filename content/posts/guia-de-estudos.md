@@ -2,7 +2,7 @@
 title: 'Guia De Estudos'
 date: 2024-06-07T16:56:52-03:00
 draft: false
-tags: ["estudos", "COER"]
+tags: ["estudos", "COER", "Anatel"]
 cover:
   image: img/when-all-else-fails.jpg
 ---
