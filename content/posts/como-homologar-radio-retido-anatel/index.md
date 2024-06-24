@@ -5,7 +5,7 @@ draft: false
 author: Lucas - PU5LJA
 tags: ["Homologação", "Anatel"]
 cover:
-  image: img/radio-retido-anatel.jpg
+  image: img/radio-retido-anatel.png
 ---
 
 ## Meu rádio foi para a fiscalização da Anatel e agora?
