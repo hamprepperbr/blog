@@ -51,7 +51,7 @@ params:
   description: "Aqui falamos sobre rádio, comunicação e preparação"
   keywords: [Blog, Portfolio, PaperMod]
   author: Ham Prepper C.A.
-  images: ["International_amateur_radio_symbol.svg"]
+  images: ["/ham-radio-ca.png"]
   DateFormat: "2 Jan 2006"
   defaultTheme: light # dark, auto
   disableThemeToggle: true
