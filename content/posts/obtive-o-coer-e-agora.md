@@ -1,7 +1,7 @@
 ---
 title: 'Obtive o Coer e Agora?'
 date: 2024-06-13T14:50:07-03:00
-draft: true
+draft: false
 tags: ["Outorga", "COER", "Licença", "Radioamador"]
 cover:
   image: img/radio-base.webp
