@@ -85,7 +85,7 @@ params:
 
   label:
     text: "Ham Prepper C.A."
-    icon: /apple-touch-icon.png
+    icon: /ham-radio-ca.png
     iconHeight: 35
 
   editPost:

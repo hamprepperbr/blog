@@ -17,11 +17,14 @@ Abaixo está uma lista de canais sobre preparação e radioamadorismo que indica
 - [Mundo AKV](https://youtube.com/@mundoakv?si=ItvlTe5dSXolBcY0)
 - [S2 Underground](https://youtube.com/@s2underground?si=lO3A5B1yGFiVAv1j)
 - [PrepMedic](https://youtube.com/@prepmedic?si=Bt5oUgn3jObHlBjZ)
+- [Sobrevivencialismo](https://youtube.com/@sobrevivencialismo?si=-zgJ8kl92BwZ_B8q)
 
 ## Links
 
 - [SEI](https://sei.anatel.gov.br/sei/controlador_externo.php?acao=usuario_externo_logar&id_orgao_acesso_externo=0)
 - [Consulta Indicativo](https://sistemas.anatel.gov.br/easp/Novo/ConsultaIndicativo/Tela.asp?SISQSmodulo=11265)
+- [QTC da Ecra](https://qtc.ecra.club/)
+- [LABRE](https://www.labre.org.br/)
 - [RadioID](https://radioid.net/)
 - [EchoLink](https://www.echolink.org/)
 - [QRZ](https://www.qrz.com/)
