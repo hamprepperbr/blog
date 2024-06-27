@@ -44,7 +44,7 @@ languages:
           url: links/
           weight: 5
 
-
+enableEmoji: true
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Ham Prepper C.A.
