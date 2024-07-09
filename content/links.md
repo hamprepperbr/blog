@@ -44,3 +44,4 @@ Abaixo está uma lista de canais sobre preparação e radioamadorismo que indica
 :link: [BrandMeister Network](https://brandmeister.network/)  
 :link: [FreeDMR Network](https://www.freedmr.uk/)  
 :link: [Winlink](https://winlink.org/)  
+:link: [Criar Selo Homologação SEI](https://wclinformatica.com/drone/selos/?pg=anatel&n_anatel=)
