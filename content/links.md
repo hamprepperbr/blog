@@ -4,6 +4,8 @@ layout: "links"
 url: "/links"
 summary: "links"
 ---
+## Propagação
+{{< propagation >}}
 
 ## Drive
 Aqui no [DRIVE](https://drive.google.com/drive/folders/1lllEd_-GUqZw9BThDg1z5NPEL4lXKGBF?usp=sharing) você vai encontrar todos os documentos já disponibilizados para download nos posts do blog
