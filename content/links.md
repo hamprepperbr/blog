@@ -26,6 +26,7 @@ Abaixo está uma lista de canais sobre preparação e radioamadorismo que indica
 :movie_camera: [Ham Radio Crash Course](https://youtube.com/@hamradiocrashcourse?si=xpA5UhePtuokwMR-)  
 :movie_camera: [Fortis Preparação](https://youtube.com/@fortis-preparacao?si=CrSCnKeppVJWMdUQ)  
 :movie_camera: [David Lopes - PU5ABQ](https://youtube.com/@pu5abq?si=qOVxS9scVUT4FJk3)  
+:movie_camera: [QRG Prepper](https://youtube.com/@qrgprepper?si=-fMFTJcpwkcWgx47)  
 :movie_camera: [Mundo AKV](https://youtube.com/@mundoakv?si=ItvlTe5dSXolBcY0)  
 :movie_camera: [S2 Underground](https://youtube.com/@s2underground?si=lO3A5B1yGFiVAv1j)  
 :movie_camera: [PrepMedic](https://youtube.com/@prepmedic?si=Bt5oUgn3jObHlBjZ)  
