@@ -2,7 +2,7 @@
 title: 'Antena flower pot'
 date: 2024-07-08T13:10:11-03:00
 draft: false
-author: Lucas - PU5LJA
+author: PU5LJA
 tags: ["Antena", "Flower Pot", "DIY"]
 cover:
   image: img/capa-antenna-flower-pot.jpeg

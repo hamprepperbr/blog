@@ -2,7 +2,7 @@
 title: 'Como Homologar Rádio Retido na Anatel'
 date: 2024-06-24T15:10:11-03:00
 draft: false
-author: Lucas - PU5LJA
+author: PU5LJA
 tags: ["Homologação", "Anatel"]
 cover:
   image: img/radio-retido-anatel.png
