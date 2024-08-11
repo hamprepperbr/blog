@@ -108,3 +108,7 @@ params:
   analytics:
     google:
       SiteVerificationTag: "G-P0661H6PZY"
+
+services:
+  googleAnalytics:
+    id: G-P0661H6PZY
