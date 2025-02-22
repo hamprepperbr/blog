@@ -23,14 +23,18 @@ Aqui no [DRIVE](https://drive.google.com/drive/folders/1lllEd_-GUqZw9BThDg1z5NPE
 ## Youtube
 Abaixo está uma lista de canais sobre preparação e radioamadorismo que indicamos:
 
+:movie_camera: [QRG Prepper](https://youtube.com/@qrgprepper?si=-fMFTJcpwkcWgx47)  
+:movie_camera: [The Tech Prepper](https://youtube.com/@thetechprepper?si=-tGShKchHyVcdyY0)  
 :movie_camera: [Ham Radio Crash Course](https://youtube.com/@hamradiocrashcourse?si=xpA5UhePtuokwMR-)  
 :movie_camera: [Fortis Preparação](https://youtube.com/@fortis-preparacao?si=CrSCnKeppVJWMdUQ)  
 :movie_camera: [David Lopes - PU5ABQ](https://youtube.com/@pu5abq?si=qOVxS9scVUT4FJk3)  
-:movie_camera: [QRG Prepper](https://youtube.com/@qrgprepper?si=-fMFTJcpwkcWgx47)  
 :movie_camera: [Mundo AKV](https://youtube.com/@mundoakv?si=ItvlTe5dSXolBcY0)  
 :movie_camera: [S2 Underground](https://youtube.com/@s2underground?si=lO3A5B1yGFiVAv1j)  
 :movie_camera: [PrepMedic](https://youtube.com/@prepmedic?si=Bt5oUgn3jObHlBjZ)  
 :movie_camera: [Sobrevivencialismo](https://youtube.com/@sobrevivencialismo?si=-zgJ8kl92BwZ_B8q)  
+:movie_camera: [Evan Thorson K2EJT](https://youtube.com/@evank2ejt?si=UYuCZiMOevy1d61j)  
+:movie_camera: [GRIDBASE](https://youtube.com/@gridbasedotnet?si=2VevDovePAXOsEdQ)  
+:movie_camera: [TREX LABS](https://youtube.com/@t.rexlabs?si=6t4ov4aRfOpHmfPX)  
 
 ## Links
 
